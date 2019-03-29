@@ -11,6 +11,8 @@ Knowledge by the attacker of valid web application URLs
 Application session management relying only on information which is known by the browser
 Existence of HTML tags whose presence cause immediate access to an http[s] resource; for example the image tag img
 
+https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.md
+
 https://stackoverflow.com/questions/16049721/how-is-using-synchronizer-token-pattern-to-prevent-csrf-safe
 
 https://security.stackexchange.com/questions/157061/how-does-csrf-correlate-with-same-origin-policy
